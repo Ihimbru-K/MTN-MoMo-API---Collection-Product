@@ -1,6 +1,6 @@
 # MoMo API Node.js Server-side for the Collection Product
 
-## Introduction
+## Introduction.
 
 This server application is designed to interact with the MoMo (Mobile Money) API provided by MTN for the collection product service. It offers various endpoints to handle API user creation, user retrieval, API key retrieval, MoMo token generation, and payment requests. Additionally, there is a simple front-end for initiating payment requests.
 
